@@ -1,0 +1,12 @@
+Lines with ** have been modified
+
+Lines 7 - 10
+	ages := map[string]int{
+		"alice":   31,
+		"charlie": 39, **
+        "gamma": 70, **
+	}
+
+Lines 19-20
+	ages["gamma"] = 77
+	fmt.Println("gamma = ", ages["gamma"]) // "77"

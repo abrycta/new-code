@@ -1,0 +1,11 @@
+	// for 04arrays //
+	// lines 30 - 33 //
+
+	a[3] = 5                                      // assignment
+	fmt.Println("set: ", a)                       //set:  [0 0 0 5 0]
+	fmt.Println("get element at index 3: ", a[3]) //get element at index 3:  5
+
+	// end of literal code //
+	COPY PASTE LINES ABOVE
+	THEN DELETE LINES 51 - 56
+	FINALLY, COMMIT CHANGES
